@@ -1,0 +1,38 @@
+W22A: My First Full-Stack
+Due Feb 13 by 11:59pm Points 3 Submitting a website url Available Jan 17 at 12am - Mar 18 at 11:59pm
+This is it! Everything we have been working towards builds up to this workflow. Our goal is to start from nothing but an idea and end up with a fully functioning website. 
+
+We are going to build a simple "candy posting" website. I mean it when I say simple. No signup, login, or users of any kind. We will just be dealing with candy.
+
+This will also be practice is getting only "feature requests" from a client. There will be no specification given from me, only some features that I would want as a client.
+
+For this part of the assignment, only worry about the local deployment of the project. We don't need to move into the cloud just yet. 
+
+Please make sure you use 2 different Github Repositories for the Frontend and Backend code!
+
+ 
+
+Building the project
+As with all full-stack projects, you should break this down in 3 sections:
+The DB
+The Back-End
+The Front-End
+The feature set is simple:
+Clients can create candy posts
+Clients can delete candy posts
+Clients can edit candy posts
+Clients can read candy posts
+Please submit both GitHub links for grading
+
+HINTS:
+
+Don't overcomplicate the DB. This is a simple application with only "candy" meaning you probably only need one table
+There is no "ownership" of candy like in Foodie.
+You probably don't need more than one page on the front-end
+ 
+
+BONUS:
+
+ Add a simple sign-up and login feature (this sounds simple, but will requires a change at almost every level)
+Your users only need a username and password
+Add ownership to candy i.e. the creator of the candy is the only one able to delete and edit that candy. Everyone can still read all the candy.
